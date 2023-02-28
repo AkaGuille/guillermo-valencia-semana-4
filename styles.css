@@ -1,0 +1,44 @@
+body{
+    box-sizing: border-box;
+    margin: 0%;
+    padding: 25%;
+    font-family: 'Roboto', sans-serif;
+}
+
+#title{
+    display: flex;
+    margin: 0%;
+    justify-content: center;
+    background-color: aqua;
+}
+
+#adding-item{
+    display: flex;
+    padding-top: 5%;
+    background-color: aqua;
+}
+
+#input-task{
+    width: 95%;
+    height: 25px;
+    padding: 0%;
+}
+
+.add-item{
+    width: 100%;
+    padding: 0%;
+}
+
+#todo-list{
+    margin: 0%;
+    padding: 0%;
+}
+
+.item{
+    font-family: 'Roboto', sans-serif;
+    font-size: medium;
+    padding-top: 10%;
+    width: 100%;
+    background-color: blue;
+}
+
